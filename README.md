@@ -4,4 +4,4 @@
 
 Scala.js facade for [ag-grid](https://github.com/ag-grid/ag-grid)
 
-For usage see [demo](demo/) (`sbt demo/fastOptJS:startWebpackDevServer`)
+For usage see [demo](demo/) (`sbt demo/fastOptJS::startWebpackDevServer`)
